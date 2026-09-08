@@ -43,7 +43,6 @@ This project addresses the problem by combining transformer-based contextual fea
 
 The proposed system follows these major steps:
 
-```text
 Raw Genomic Sequence
         ↓
 Data Preprocessing
